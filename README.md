@@ -14,5 +14,3 @@ pip install -r requirements.txt
 ``` 2.geneformer_finetuning.ipynb ``` contains the steps for fine-tuning the Geneformer model on classifying PD single cell transcriptomes.
 
 ``` 3.evaluation.ipynb ``` contains an evaluation of simpler baseline models compared to fine-tuned Geneformer.
-
-``` pd_classifier/ ``` is the directory that contains the fine-tuned model
